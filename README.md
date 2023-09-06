@@ -1,6 +1,6 @@
 # Aloha 👋 - Engineer and Tech Enthusiast
 
-Welcome to my corner of the tech world! I'm Aloha, an engineer passionate about DevOps, Cybersecurity, and Blockchain. Let's dive right into what makes these fields so exciting:
+I'm Aloha, an engineer passionate about DevOps, Cybersecurity, and Blockchain. Let's dive right into what makes these fields so exciting:
 
 ## DevOps 🚀
 
