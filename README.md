@@ -2,6 +2,10 @@
 
 I'm Aloha, an engineer passionate about DevOps, Cybersecurity, and Blockchain. Let's dive right into what makes these fields so exciting:
 
+## Engineering 🚀
+
+Engineering is the essence of progress, transforming concepts into practical solutions. It's about innovation, precision, and making the impossible possible. Let's build the future together!
+
 ## DevOps 🚀
 
 DevOps is the heartbeat of modern software development. It's about teamwork, automation, and constant improvement. I'm all in for creating efficient, high-quality software through DevOps practices.
