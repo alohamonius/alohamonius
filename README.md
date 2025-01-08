@@ -7,7 +7,7 @@ I thrive on solving complex problems and delivering scalable solutions that stan
 ## Engineering Excellence 🚀
 
 As an engineer, I focus on:
-- Maintainability: Writing clean, well-documented code for long-term maintainability.
+- Maintainability: Writing clean, well-documented code for long-term maintainability. <a href="https://github.com/alohamonius/codebucket/tree/main/test/unit">[0]</a> ...
 - Elegant Solutions: Designing simple yet powerful solutions to complex challenges.
 - Modern Practices: Leveraging the latest tools and methodologies to stay ahead.
 - Scalability & Performance: Crafting systems that are efficient and scalable.
@@ -18,7 +18,7 @@ With a strong enthusiasm for cybersecurity, I embed security into every aspect o
 
 - Best Practices: Integrating security best practices into software design.
 - Vulnerability Management: Proactively identifying and mitigating potential threats.
-- Continuous Learning: Staying updated on emerging security trends and defenses.
+- Continuous Learning: Staying updated on emerging security trends and defenses. <a href="https://github.com/alohamonius/security-journey">[0]</a>
 - Security-First Approach: Ensuring all projects prioritize security from the ground up.
 
 
