@@ -1,22 +1,33 @@
 # Aloha 👋 - Software Engineer
 
-I'm Aloha, an engineer who's passionate about building robust software systems with a keen interest in cybersecurity and blockchain technology. I believe great engineering is the foundation for secure and innovative solutions.
+I'm Oleksii, a passionate Software Engineer specializing in building robust, secure, and innovative software systems with a keen focus on cybersecurity and blockchain technology.
+I thrive on solving complex problems and delivering scalable solutions that stand the test of time.
 
-## Engineering 🚀
-As an engineer, I focus on creating efficient, scalable solutions that stand the test of time. My approach emphasizes:
 
-- Building maintainable and performant systems
-- Designing elegant solutions to complex problems
-- Writing clean, well-documented code
-- Leveraging modern engineering practices and tools
+## Engineering Excellence 🚀
 
-## Security Mindset 🔒
-My enthusiasm for cybersecurity shapes how I approach engineering challenges:
+As an engineer, I focus on:
+- Maintainability: Writing clean, well-documented code for long-term maintainability.
+- Elegant Solutions: Designing simple yet powerful solutions to complex challenges.
+- Modern Practices: Leveraging the latest tools and methodologies to stay ahead.
+- Scalability & Performance: Crafting systems that are efficient and scalable.
 
-- Implementing security best practices in software design
-- Understanding and mitigating potential vulnerabilities
-- Staying current with emerging security threats and defenses
-- Building with security-first principles
+## Security First 🔒
+
+With a strong enthusiasm for cybersecurity, I embed security into every aspect of my work:
+
+- Best Practices: Integrating security best practices into software design.
+- Vulnerability Management: Proactively identifying and mitigating potential threats.
+- Continuous Learning: Staying updated on emerging security trends and defenses.
+- Security-First Approach: Ensuring all projects prioritize security from the ground up.
+
+
+## Recent Projects 💼
+
+- <a href="https://github.com/alohamonius/AWS_Portfolio1">aws-portfolio1</a>: A full-stack project combining Kubernetes, Terraform, Node.js, and React (AWS)
+- <a href="https://github.com/alohamonius/FileUploader">C# FileUploader</a>: A C# repository for efficient file upload management.
+- <a href="https://github.com/alohamonius/codebucket">Web3 Codebicket</a>: JavaScript examples showcasing Web3 integrations.
+- <a href="https://github.com/alohamonius/security-journey">Security Learning Process</a>: A repository documenting my continuous learning in cybersecurity.
 
 ## Let's Connect 🤝
 Whether you're passionate about engineering, cybersecurity, or blockchain, I'm always eager to collaborate and exchange ideas with fellow tech enthusiasts!
