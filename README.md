@@ -39,8 +39,12 @@ Contributed to <a href="https://actlabs.io/">ACT-Labs</a> organization (<a href=
 Whether you're passionate about engineering, cybersecurity, or blockchain, I'm always eager to collaborate and exchange ideas with fellow tech enthusiasts!
 
 
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/al0hatech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="al0hatech" height="30" width="40" /></a>
+<a href="https://calendly.com/bichuk-oleksii/let-s-connect" target="blank"><img src="https://img.shields.io/badge/Book%20a%20Call-%2300A3E0?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" height="30" width="40"/></a>
+<a href="https://twitter.com/al0hatech" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/X_logo_2023_%28white%29.svg" alt="X" height="30" width="40" />
+</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/oleksii-bichuk-a2698613b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oleksii-bichuk-a2698613b/" height="30" width="40" /></a>
 </p>
