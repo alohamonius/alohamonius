@@ -28,7 +28,7 @@ With a strong enthusiasm for cybersecurity, I embed security into every aspect o
 - <a href="https://github.com/alohamonius/FileUploader">C# FileUploader</a>: A C# repository for efficient file upload management.
 - <a href="https://github.com/alohamonius/codebucket">Web3 Codebucket</a>: JavaScript examples showcasing Web3 integrations.
 - <a href="https://github.com/alohamonius/security-journey">Security Learning Process</a>: A repository documenting my continuous learning in cybersecurity.
-- <a href="https://github.com/alohamonius/aster-vibe-trader"> Autonomous AI system that trades live via the Aster API (aster competition)
+- <a href="https://github.com/alohamonius/aster-vibe-trader">Aster AI Trader</a>: Autonomous AI system that trades live via the Aster API (aster competition)
 
 https://github.com/alohamonius/aster-vibe-trader
 ## Let's Connect 🤝
