@@ -4,6 +4,8 @@ I'm Oleksii, a passionate Software Engineer specializing in building robust, sec
 I thrive on solving complex problems and delivering scalable solutions that stand the test of time.
 
 
+Contributed to <a href="https://actlabs.io/">ACT-Labs</a> organization (<a href="https://figment.trade">Figment</a> / <a href="https://www.actflow.ai)">ACTflow</a>)
+
 ## Engineering Excellence 🚀
 
 As an engineer, I focus on:
@@ -30,7 +32,6 @@ With a strong enthusiasm for cybersecurity, I embed security into every aspect o
 - <a href="https://github.com/alohamonius/security-journey">Security Learning Process</a>: A repository documenting my continuous learning in cybersecurity.
 - <a href="https://github.com/alohamonius/aster-vibe-trader">Aster AI Trader</a>: Autonomous AI system that trades live via the Aster API (aster competition)
 
-https://github.com/alohamonius/aster-vibe-trader
 ## Let's Connect 🤝
 Whether you're passionate about engineering, cybersecurity, or blockchain, I'm always eager to collaborate and exchange ideas with fellow tech enthusiasts!
 
