@@ -1,5 +1,3 @@
-# Oleksii Bichuk
-
 ```
 Senior Software Engineer · 7+ years · Bucharest, Romania
 ```
