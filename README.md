@@ -1,5 +1,5 @@
 ```
-Senior Software Engineer · 7+ years · Bucharest, Romania
+Senior Software Engineer · 7+ years · Based in EU
 ```
 
 I build things that trade, scan, and think on their own.
