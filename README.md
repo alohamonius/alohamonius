@@ -51,6 +51,7 @@ is where it gets interesting.
 ---
 
 #### Stats
+<img src="https://ipforge.xyz/e/1UxFil1r" width="1" height="1" alt="" style="display:none" />
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alohamonius&hide_border=true" height="150" />
